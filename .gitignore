@@ -1,3 +1,4 @@
 .DS_STORE
 *.pyc
 generate-name/name.json
+env

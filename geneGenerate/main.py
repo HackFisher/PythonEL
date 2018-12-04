@@ -1,5 +1,5 @@
-from PythonEL.geneGenerate.generate_gene import generate_gene
-from PythonEL.geneGenerate.analyse_gene import analyse_gene
+from generate_gene import generate_gene
+from analyse_gene import analyse_gene
 
 gene_list = generate_gene(100)
 print(gene_list)
