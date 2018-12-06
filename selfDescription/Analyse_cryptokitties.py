@@ -22,5 +22,5 @@ def scrapy(x, y):
 
 
 for i in range(200):
-    t = threading.Thread(target=scrapy(1200500 + i * 20, 1200500 + (i + 1) * 20))
+    t = threading.Thread(target=scrapy(1250500 + i * 20, 1250500 + (i + 1) * 20))
     t.start()

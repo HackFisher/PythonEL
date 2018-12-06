@@ -57,7 +57,6 @@ def main():
     # Randomly shuffle the output
     shuffle(result)
 
-    print result
 
 
 

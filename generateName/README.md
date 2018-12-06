@@ -21,3 +21,10 @@ Prod:
     name_text.json
     {"female_name": ["LATASHA ROSARIO", "JENNA BLACKBURN", "LENORE BYRD", "CHRISTINA HATTAWAY", "LAURA LUCAS"], "male_name": ["CLARENCE FORD", "RONALD DODGEN", "RANDY ARROWOOD", "JARED LACY", "EVAN GARY"]}
 
+## 其他
+
+- name.json 包含已经生成各不相同的100万个男生姓名和女生姓名
+- name_extract.py 包含对原data文件的抽取
+- name_txt.json 生成的测试数据
+- names.json name_extract.py运行出的结果，抽取出1000个男性firstname，1000个女性firstname和1000个lastname
+- 其他文件：namegenerator自带的文件
