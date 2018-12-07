@@ -24,5 +24,5 @@ name = dic['name']
 sentence = dic['sentence']
 says = dic['says']
 bye = dic['bye']
-for i in range(20):
+for i in range(10000):
     print(hello[random.randint(0,l_hello-1)],name[random.randint(0,l_name-1)],sentence[random.randint(0,l_sentence-1)],says[random.randint(0,l_says-1)],bye[random.randint(0,l_bye-1)])
